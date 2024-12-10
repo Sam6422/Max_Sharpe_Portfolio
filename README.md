@@ -1,4 +1,6 @@
 # Max_Sharpe_Portfolio
+What problem is this thing trying to solve?
+-if you are trying to find efficient weights for your portfolio, based on historical performance of the stocks in your portfolio, for the highest possible Sharpe.
 
 How to use the sheet?
 
