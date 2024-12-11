@@ -16,10 +16,10 @@ Step1- download all files and keep them in the same folder.
 
 Step2- open the excel-macro file.
 
-Step3- enter list of stocks in CellB4 in Excel.
+Step3- enter list of stocks in CellB4 in Excel. (INPUT)
 
 Step4- mention python file and python interpreter path in xlwings addin.
 
-step5- click on the "optimise_button" to execute the code.
+step5- click on the "optimise_button" to execute the code. (OUTPUT)
 
 You will see the Portfolio results and Optimum weights for the Max-Sharpe_Portfolio in Excel.
