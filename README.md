@@ -1,4 +1,11 @@
-# Max_Sharpe_Portfolio
+#### Note-> python file and jupyter file are just for reference, you can use either one as per your choice, provided your system matches the requirements, for editing the code as per your needs.
+#### Disclaimer->
+
+-this is not an advisory application. Please do your own due diligence before engaging in making a portfolio as per this code.
+-the code works on backward looking data, which cannot be the best way of predicting future returns.
+
+
+# Max_Sharpe_Portfolio Project
 What problem is this thing trying to solve?
 
 -if you are trying to find efficient weights for your portfolio, based on historical performance of the stocks in your portfolio, for the highest possible Sharpe.
