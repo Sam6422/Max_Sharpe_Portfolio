@@ -2,6 +2,7 @@
 What problem is this thing trying to solve?
 
 -if you are trying to find efficient weights for your portfolio, based on historical performance of the stocks in your portfolio, for the highest possible Sharpe.
+
 -all code will can be executed from the excel-macro itself (no need to run the code separately in python IDE).
 
 How to use the sheet?
