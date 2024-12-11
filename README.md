@@ -14,7 +14,7 @@ How to use the sheet?
 
 Step1- download all files and keep them in the same folder.
 
-Step2- open the excel-macro file.
+Step2- open the excel-macro file. (macros will need to be unlocked first, see this link-https://support.microsoft.com/en-us/topic/a-potentially-dangerous-macro-has-been-blocked-0952faa0-37e7-4316-b61d-5b5ed6024216)
 
 Step3- enter list of stocks in CellB4 in Excel. (INPUT)
 
