@@ -1,7 +1,5 @@
 #### Note-> python file and jupyter file are just for reference, you can use either one as per your choice, provided your system matches the requirements, for editing the code as per your needs.
-#### Disclaimer->-this is not an advisory application. Please do your own due diligence before engaging in making a portfolio as per this code.
-
--the code works on backward looking data, which cannot be the best way of predicting future returns.
+#### Disclaimer->-this is not an advisory application. Please do your own due diligence before engaging in making a portfolio as per this code. The code works on backward looking data, which cannot be the best way of predicting future returns.
 
 
 # Max_Sharpe_Portfolio Project
