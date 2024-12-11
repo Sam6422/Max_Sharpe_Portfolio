@@ -21,4 +21,4 @@ Step4- mention python file and python interpreter path in xlwings addin.
 
 step5- run the code in developer tab.
 
-You will see the Portfolio resuls and Optimum weights for the Max-Sharpe_Portfolio in Excel.
+You will see the Portfolio results and Optimum weights for the Max-Sharpe_Portfolio in Excel.
